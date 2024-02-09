@@ -35,7 +35,7 @@ Desafio de ciência de dados para o processo seletivo da empresa Indicium. O des
  'disponibilidade_365': 355}
 </code>
 
-    Qual seria a sua sugestão de preço?
+Qual seria a sua sugestão de preço?
 
 5. Salve o modelo desenvolvido no formato .pkl
 
