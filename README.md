@@ -37,6 +37,7 @@ Desafio de ciência de dados para o processo seletivo da empresa Indicium. O des
 <br>
 Qual seria a sua sugestão de preço?
 <br>
+
 5. Salve o modelo desenvolvido no formato .pkl
 
 ### Como instalar e rodar o projeto
